@@ -1,0 +1,26 @@
+{
+  "name": "page-explorer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1",
+    "bufferutil": "^4.0.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1",
+    "prettier": "^2.0.5",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "url": "^0.11.0",
+    "url-parse": "^1.4.7",
+    "utf-8-validate": "^5.0.2"
+  }
+}
